@@ -1,6 +1,6 @@
 from version 1
-<<<<<<< HEAD
 from version 3
-=======
+
 version 2
->>>>>>> fe31e22 (commit in local repo)
+
+msg from feature
